@@ -1,12 +1,14 @@
 # About Me
 
-Hello 👋, I'm Sam and welcome to my Github. I'm a software engineer with a focus on DevOps tools and practices. I'm also a futurist, so predictably I'm a blockchain and crypto enthusiast. 
+Hello 👋, I'm Sam and welcome to my Github. I'm a software engineer with a focus on DevOps tools and practices. I'm also a futurist, so predictably I'm a blockchain and crypto enthusiast having recently participated in some web3 hackathons - with more planned in the future!
 
 ## What I'm Working On 🧑🏻‍💻
 
-Development in my spare time has often been non-existent as I'm a keen writer, however I'm currently participating in Encode Club's 'Hack Africa' event so I'm back in action! I'm developing a dApp with my friend @HarryMoy called Bondible. I'm also in the process of creating a Github Pages website to capture the journey and also some other thoughts.
+I'm currently working on some certifications in the cloud and DevOps remit, lookng at Azure and Terraform certifications. Another thing on my radar currently is Encode Acadamy's Solidity bootcamps which I hope to join in the near future. 
 
-As part of the Bondible build I'm learning React so I suppose I could migrate away from Jekyll in the future.
+ReactJS has been a focus of mine recently and I'm attending a ReactJS course in the coming weeks so I can figure out just how to stop prop drilling 👀
+
+Some personal projects have stalled as COVID restrictions lifted, although I wish to get back to some sort of online writing - perhaps technical writing. Just not quite figured out my direction right now - you can view the initial beginnings on samclusker.com.
 
 ## Tech Stack 🔧
 
@@ -21,16 +23,3 @@ Here is a list of what tools I currently work with professionally and personally
 * NodeJS
 * Solidity
 * Mongo
-
-## Newsletter 🗞
-
-I write a weekly newsletter focussing mainly on cryptocurrency, blockchain and futurist topics, however it's a process of refinement so I suspect it could change as the weeks go on. If you fancy following that refinement journey you can sign up here - https://newsletter.samclusker.com
-
-## In Futurae Fidelis 🔮
-
-I also write more informative/speculative pieces over on In Futurae Fidelis with a friend of mine @HarryMoy. The latin translation is roughly 'faithful in the future' because we're both super excited about the future and the changes it brings! We write about upcoming technologies and sometimes get a little whacky discussing the future of society and the impact technology will have on it. Have a gander - https://futuraefidelis.co.uk
-
-## Future Talk 🗣
-
-As well as writing about the future, Harry and myself also talk about it. The 'Future Talk' podcast is a great way for us to bounce ideas of one another and also get thinking more creatively about what the future might hold. You can listen on iTunes, Spotify, Google Podcasts and more. Perhaps you'd like to come on the show and have your say on the topic of that week! Get in touch.
-
